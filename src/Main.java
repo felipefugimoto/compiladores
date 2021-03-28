@@ -2,7 +2,7 @@ import javax.swing.*;
 
 
 public class Main {
-    public static class  Janela  extends JFrame{
+    public class  Janela  extends JFrame{
         public Janela(){
 
             setTitle("Compilador");
